@@ -18,7 +18,6 @@ There are 200 images for each of the 5 classes. As Figure 1 shows, there is a gr
 
 
 
-
 In this section:
 <ul>
 <li>Download the dataset as described above</li>
