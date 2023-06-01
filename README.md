@@ -15,7 +15,7 @@ The data for this project are plant images at different resolutions captured wit
 <a href="https://vision.eng.au.dk/leaf-counting-dataset/">Leaf counting dataset</a> (Required files are posted on Brightspace)
 
 There are 200 images for each of the 5 classes. As Figure 1 shows, there is a great variety of plants and image conditions. The dataset is split into a training and a testing set where there are 180 images per class for training and validation; and 20 images for testing.
- 
+  
   
 
 In this section:
